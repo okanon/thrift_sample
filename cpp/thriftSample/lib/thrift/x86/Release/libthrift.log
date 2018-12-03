@@ -1,0 +1,43 @@
+﻿  TAsyncChannel.cpp
+  TConcurrentClientSyncInfo.cpp
+  BoostMonitor.cpp
+  BoostMutex.cpp
+  BoostThreadFactory.cpp
+  StdThreadFactory.cpp
+  Util.cpp
+  PeekProcessor.cpp
+  TBase64Utils.cpp
+  TJSONProtocol.cpp
+  TMultiplexedProtocol.cpp
+  TProtocol.cpp
+  TConnectedClient.cpp
+  TServer.cpp
+  TServerFramework.cpp
+  TSimpleServer.cpp
+  TThreadedServer.cpp
+  TThreadPoolServer.cpp
+  TApplicationException.cpp
+  TOutput.cpp
+  TBufferTransports.cpp
+  TFDTransport.cpp
+  TFileTransport.cpp
+c:\users\flatc\source\repos\mid2add\lib\thrift\src\thrift\transport\tbuffertransports.cpp(375): warning C4244: '引数': 'uint64_t' から 'size_t' への変換です。データが失われる可能性があります。
+  THttpClient.cpp
+  THttpServer.cpp
+  THttpTransport.cpp
+  TPipe.cpp
+  TPipeServer.cpp
+  TServerSocket.cpp
+  TSocket.cpp
+  TSSLServerSocket.cpp
+  TSSLSocket.cpp
+  TTransportException.cpp
+  TTransportUtils.cpp
+  GetTimeOfDay.cpp
+  SocketPair.cpp
+  TWinsockSingleton.cpp
+  WinFcntl.cpp
+  libthrift.vcxproj -> C:\Users\flatc\source\repos\mid2add\x86\Release\libthrift.lib
+  C:\Users\flatc\source\repos\mid2add\lib\thrift\packages\openssl-vc141-static-x86_64.1.1.0\build\native\\lib\Win32\dynamic\libcrypto-1_1.dll
+  C:\Users\flatc\source\repos\mid2add\lib\thrift\packages\openssl-vc141-static-x86_64.1.1.0\build\native\\lib\Win32\dynamic\libssl-1_1.dll
+  2 個のファイルをコピーしました
